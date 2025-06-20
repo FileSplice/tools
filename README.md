@@ -1,4 +1,4 @@
-# FileSplice: Tools for Label Layout and Packing
+# FileSplice: Imposition and Batch Printing Software
 
 Welcome to the official resources repository for FileSplice — a suite of utilities and visual tools designed for merging, imposing and batching together files.
 
